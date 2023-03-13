@@ -12,8 +12,13 @@
     "clean": "lb-clean dist *.tsbuildinfo .eslintcache",
     "rebuild": "npm run clean && npm run build"
   },
-  "author": "",
+  "author": "alanfernando93 <alanfernando93.am@gmail.com>",
   "license": "ISC",
+  "files": [
+    "README.md",
+    "dist",
+    "src"
+  ],
   "dependencies": {
     "@loopback/repository": "^5.1.4",
     "lodash": "^4.17.21"
@@ -21,6 +26,9 @@
   "devDependencies": {
     "@loopback/build": "^9.0.9",
     "@loopback/eslint-config": "^13.0.9",
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.15.0",
+    "eslint": "^8.36.0",
     "typescript": "^4.9.5"
   }
 }
