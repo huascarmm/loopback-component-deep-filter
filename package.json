@@ -31,5 +31,13 @@
     "@types/node": "^18.15.0",
     "eslint": "^8.36.0",
     "typescript": "^4.9.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huascarmm/loopback-component-deep-filter"
+  },
+  "bugs": {
+    "url": "https://github.com/huascarmm/loopback-component-deep-filter/issues"
+  },
+  "homepage": "https://github.com/huascarmm/loopback-component-deep-filter#readme"
 }
