@@ -10,7 +10,8 @@
   "scripts": {
     "build": "lb-tsc",
     "clean": "lb-clean dist *.tsbuildinfo .eslintcache",
-    "rebuild": "npm run clean && npm run build"
+    "rebuild": "npm run clean && npm run build",
+    "prepublish": "tsc"
   },
   "author": "alanfernando93 <alanfernando93.am@gmail.com>",
   "license": "ISC",
