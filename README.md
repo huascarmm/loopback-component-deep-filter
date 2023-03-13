@@ -1,13 +1,25 @@
-# loopback-component-filter
+# loopback-deep-filter
 
 [![LoopBack](<https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png>)](http://loopback.io/)
 
+## Developers\*\*
+
+Alan Mamani (creator) - [alanfernando93.am@gmail.com](mailto:alanfernando93.am@gmail.com) - [https://gitlab.com/alanfernando93](https://gitlab.com/alanfernando93)
+
+Huáscar Miranda Martínez (collaborator) - [huascarm@gmail.com](mailto:huascarm@gmail.com) - [https://github.com/huascarmm](https://github.com/huascarmm)
+
 ## Installation
 
-Install LoopbackFilterComponent using `npm`;
+Install using `npm`;
 
 ```sh
 $ npm install loopback-deep-filter
+```
+
+Install using `yarn`;
+
+```sh
+$ yarn add loopback-deep-filter
 ```
 
 ## Basic Use
@@ -47,4 +59,4 @@ body example to filter format
 }
 ```
 
-more examples, folder **_/src/**tests**/integration_**
+more examples, folder **\_/src/**tests**/integration\_**
