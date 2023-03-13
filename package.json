@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-filter",
+  "name": "loopback-deep-filter",
   "version": "2.0.0",
   "description": "loopback-component-filter update",
   "main": "dist/index.js",
